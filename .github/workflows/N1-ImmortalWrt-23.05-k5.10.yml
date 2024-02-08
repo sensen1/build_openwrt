@@ -1,4 +1,4 @@
-name: N1-ImmortalWrt-23.05
+name: N1-ImmortalWrt-23.05-k5.10
 
 on:
   workflow_dispatch:
